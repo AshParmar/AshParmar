@@ -18,7 +18,7 @@ Yo, I’m **Ashish**, an AI + Data Science undergrad who firmly believes the bes
 - **The Goal:** Manifesting that **MS in AI / Data Science (Fall 2027)** 🇺🇸.
 - **My Loop:** **Gym + code + vibe = repeat** 🏋️‍♂️💻.
 <p align="center">
-  <img src="[GYM_OR_HUSTLE_GIF_LINK_HERE]" width="250" alt="GIF of someone lifting weights or running on a treadmill">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE1cWE2MWV5YnRsbDltOWtvNGM5dzNhZmZvOWIyaDd4aTd6am1wZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xoicctrOv5aGw6mCZi/giphy.gif" width="250" alt="i know coding too ">
 </p>
 
 ---
@@ -53,7 +53,7 @@ The core concepts and projects dominating my focus right now.
   🔹 **Real-world NLP/GenAI:** Creating software that *actually* feels like the future.<br>
 </p>
 <p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fianime0.tumblr.com%2Fpost%2F790245525425373184%2Fgachiakuta-enjin-episode-3&psig=AOvVaw1GWsnbLXP-3b6KuxlIT2DY&ust=1759939467604000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCPD4g8q7kpADFQAAAAAdAAAAABAE" width="250" alt="GIF of matrix code or fast typing">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFudXhqZ2Y0dGxrN3p5bXFhbGJvdHlqb2Ridmx5bTYzNzNqa284aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="250" alt="GIF of matrix code or fast typing">
 </p>
 
 ---
