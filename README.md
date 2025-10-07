@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer ⚡ Data Science ⚡ Robotics ⚡ Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://www.freepik.com/free-vector/binary-code-pattern-dark-blue-background_16342958.htm#fromView=keyword&page=1&position=17&uuid=d6e66749-c87f-4b01-9274-fc0ffe6626d5&query=Linkedin+banner+coding" />
+  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fposterjack.ca%2Fblogs%2Finspiration%2F27-photos-to-inspire-get-creative-with-beach-photography%3Fsrsltid%3DAfmBOopkeyPNJY6Hk0RHjKRnnsM3MmxhBKIZPnAVAsgaWFYFOZbnP8tm&psig=AOvVaw1MCDH0X6YpI_OOnFv4O3ZI&ust=1759951452997000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC8x53okpADFQAAAAAdAAAAABAE" />
 </p>
 ---
 
