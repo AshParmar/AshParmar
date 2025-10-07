@@ -27,11 +27,8 @@ My tools for chaos and creation.
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,langchain,react,nodejs,js,html,css,arduino,mysql,postgresql,aws,git,linux,vscode,vercel" />
 </p>
-## 🎮 The Game: My GitHub Snake
-Catch me if you can!:}
-
 <p align="center">
-    <img src="https://raw.githubusercontent.com/ashparmar/ashparmar/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake game" />
+    <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-grey.svg" alt="GitHub contribution grid snake game" />
 </p>
 
 ---
