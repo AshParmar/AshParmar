@@ -2,12 +2,12 @@
 <h3 align="center">AI Engineer ⚡ Data Science ⚡ Robotics ⚡ Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00FFFF&center=true&vCenter=true&width=480&lines=Building+AI+that+doesn't+sleep.;Debugging+my+way+to+sentience.;Turning+coffee+into+neural+networks.;Diffusion+models+and+delusion+models+😎" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pieWZtMWpvb2pwNHR0amRweGN4cmxvNjl0eWtneG0yNHc4MXZrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LKvHJSPgCj4BjF1F5e/giphy.gif" />
 </p>
 ---
 
 ## 🤷 Who tf am I?
-Yo, I’m **Ashish**, an AI + Data Science undergrad who firmly believes the best code is written between 1 AM and 4 AM. I'm basically a human wrapper around a bunch of **PyTorch** tensors. I like teaching computers how to think (and sometimes how to be cooler than me).
+Yo, I’m **Ashish**, an AI + Data Science undergrad, passionate about building intelligent systems that make a difference.  
 
 ### 🤯 The Current Vibe: What I'm Cooking Up
 - **Generative Models:** Currently obsessed with **Diffusion Models** and **GANs** (because normal ML is too chill).
