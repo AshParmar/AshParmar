@@ -2,7 +2,7 @@
 <h3 align="center">AI Engineer ⚡ Data Science ⚡ Robotics ⚡ Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3pieWZtMWpvb2pwNHR0amRweGN4cmxvNjl0eWtneG0yNHc4MXZrYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LKvHJSPgCj4BjF1F5e/giphy.gif" />
+  <img src="https://www.freepik.com/free-vector/binary-code-pattern-dark-blue-background_16342958.htm#fromView=keyword&page=1&position=17&uuid=d6e66749-c87f-4b01-9274-fc0ffe6626d5&query=Linkedin+banner+coding" />
 </p>
 ---
 
@@ -26,6 +26,12 @@ My tools for chaos and creation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,langchain,react,nodejs,js,html,css,arduino,mysql,postgresql,aws,git,linux,vscode,vercel" />
+</p>
+## 🎮 The Game: My GitHub Snake
+Catch me if you can!:}
+
+<p align="center">
+    <img src="https://raw.githubusercontent.com/ashparmar/ashparmar/output/github-contribution-grid-snake.svg" alt="GitHub contribution grid snake game" />
 </p>
 
 ---
