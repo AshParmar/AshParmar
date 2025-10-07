@@ -1,10 +1,6 @@
 <h1 align="center">Hellowww 👋, I'm <span style="color:#00FFFF;">Ashiish</span></h1>
 <h3 align="center">AI Engineer ⚡ Data Science ⚡ Robotics ⚡ Deep Learning Enthusiast</h3>
 
-<p align="center">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fposterjack.ca%2Fblogs%2Finspiration%2F27-photos-to-inspire-get-creative-with-beach-photography%3Fsrsltid%3DAfmBOopkeyPNJY6Hk0RHjKRnnsM3MmxhBKIZPnAVAsgaWFYFOZbnP8tm&psig=AOvVaw1MCDH0X6YpI_OOnFv4O3ZI&ust=1759951452997000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCIC8x53okpADFQAAAAAdAAAAABAE" />
-</p>
----
 
 ## 🤷 Who tf am I?
 Yo, I’m **Ashish**, an AI + Data Science undergrad, passionate about building intelligent systems that make a difference.  
