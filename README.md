@@ -18,7 +18,6 @@ Yo, I’m **Ashish**, an AI + Data Science undergrad who likes teaching computer
 - Manifesting that **MS in AI / Data Science (Fall 2027)** 🇺🇸  
 - Gym + code + vibe = repeat 🏋️‍♂️💻  
 
-> “If it trains, it gains. If it explodes, it’s just learning faster.” 🔥
 
 ---
 
@@ -59,6 +58,20 @@ Yo, I’m **Ashish**, an AI + Data Science undergrad who likes teaching computer
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashparmar&theme=tokyo-night&hide_border=true&area=true" />
 </p>
+### 🎧 Vibe Check
+<p align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31q6xk2g6eh4c3fwgf7wcvj4kslm&cover_image=true&theme=default&show_offline=false&background_color=0D1117&interchange=true" />
+</p>
 
-<h3 align="center">✨ See y’all in the commits. Shipping chaos & code daily. ✨</h3>
-<p align="center">🤖 “AI might take over, but at least it’ll be well-designed.”</p>
+---
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashparmar&theme=react-dark&hide_border=true&area=true" />
+</p>
+
+---
+
+<p align="center">
+  <i>“Catch me in commits or the gym. Either way, I’m building something.” 💪</i><br>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="120">
+</p>
