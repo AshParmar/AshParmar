@@ -6,7 +6,7 @@
 </p>
 ---
 
-## 🤷 Who am I, really?
+## 🤷 Who tf am I?
 Yo, I’m **Ashish**, an AI + Data Science undergrad who firmly believes the best code is written between 1 AM and 4 AM. I'm basically a human wrapper around a bunch of **PyTorch** tensors. I like teaching computers how to think (and sometimes how to be cooler than me).
 
 ### 🤯 The Current Vibe: What I'm Cooking Up
@@ -16,7 +16,7 @@ Yo, I’m **Ashish**, an AI + Data Science undergrad who firmly believes the bes
 - **The Grind:** Breaking **PyTorch** builds at 2 AM just to fix them again. It’s a lifestyle.
 - **My Loop:** **Gym + code + vibe = repeat** 🏋️‍♂️💻.
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE1cWE2MWV5YnRsbDltOWtvNGM5dzNhZmZvOWIyaDd4aTd6am1wZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xoicctrOv5aGw6mCZi/giphy.gif" width="500" alt="i know coding too ">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE1cWE2MWV5YnRsbDltOWtvNGM5dzNhZmZvOWIyaDd4aTd6am1wZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xoicctrOv5aGw6mCZi/giphy.gif" width="400" alt="i know coding too ">
 </p>
 
 ---
