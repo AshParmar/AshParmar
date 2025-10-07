@@ -58,7 +58,7 @@ I'm an **AI and Data Science student** passionate about building intelligent sys
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashparmarr&theme=tokyo-night&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ashparmar&theme=tokyo-night&hide_border=true&area=true" />
 </p>
 
 
