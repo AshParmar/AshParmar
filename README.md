@@ -2,9 +2,8 @@
 <h3 align="center">AI Engineer ⚡ Data Science ⚡ Robotics ⚡ Deep Learning Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1500&color=00FFFF&center=true&vCenter=true&width=480&lines=Building+AI+that+doesn't+sleep.;Debugging+my+way+to+sentience.;Turning+coffee+into+neural+networks.;Diffusion+models+and+delusion+models+😎" />
+  <img src="https://typing-svg.herokuapp.com?font=Fira+Code&pause=1500&color=00FFFF&center=true&vCenter=true&width=480&lines=Building+AI+that+doesn't+sleep.;Debugging+my+way+to+sentience.;Turning+coffee+into+neural+networks.;Diffusion+models+and+delusion+models+😎" />
 </p>
-
 ---
 
 ## 🤷 Who am I, really?
@@ -15,10 +14,9 @@ Yo, I’m **Ashish**, an AI + Data Science undergrad who firmly believes the bes
 - **Autonomous AI:** Developing **Agentic LLMs** that don't need babysitting—truly autonomous code.
 - **LLM Utility:** Deep diving into the stack: **LangChain**, **RAG** architecture, and streamlining **LLM Ops**.
 - **The Grind:** Breaking **PyTorch** builds at 2 AM just to fix them again. It’s a lifestyle.
-- **The Goal:** Manifesting that **MS in AI / Data Science (Fall 2027)** 🇺🇸.
 - **My Loop:** **Gym + code + vibe = repeat** 🏋️‍♂️💻.
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE1cWE2MWV5YnRsbDltOWtvNGM5dzNhZmZvOWIyaDd4aTd6am1wZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xoicctrOv5aGw6mCZi/giphy.gif" width="250" alt="i know coding too ">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE1cWE2MWV5YnRsbDltOWtvNGM5dzNhZmZvOWIyaDd4aTd6am1wZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xoicctrOv5aGw6mCZi/giphy.gif" width="500" alt="i know coding too ">
 </p>
 
 ---
@@ -53,7 +51,7 @@ The core concepts and projects dominating my focus right now.
   🔹 **Real-world NLP/GenAI:** Creating software that *actually* feels like the future.<br>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFudXhqZ2Y0dGxrN3p5bXFhbGJvdHlqb2Ridmx5bTYzNzNqa284aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="250" alt="GIF of matrix code or fast typing">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFudXhqZ2Y0dGxrN3p5bXFhbGJvdHlqb2Ridmx5bTYzNzNqa284aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="500" alt="GIF of matrix code or fast typing">
 </p>
 
 ---
@@ -77,5 +75,5 @@ Let's build something awesome, or at least break something interesting.
 
 <p align="center">
   <i>"I'm either lifting weights or lifting libraries. Either way, I'm building something." 💪</i><br>
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="500">
 </p>
