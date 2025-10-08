@@ -43,12 +43,12 @@ Proof that I actually commit code (and not just crimes against my sleep schedule
 
 The core concepts and projects dominating my focus right now.
 
-<p align="center">
+
   🔹 **Diffusion & GANs:** Turning noise into gold.<br>
   🔹 **Agentic AI:** Building models that can write their own to-do lists.<br>
   🔹 **LangChain + RAG:** Making LLMs stop hallucinating (the dream).<br>
   🔹 **Real-world NLP/GenAI:** Creating software that *actually* feels like the future.<br>
-</p>
+  
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjFudXhqZ2Y0dGxrN3p5bXFhbGJvdHlqb2Ridmx5bTYzNzNqa284aSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Ws6T5PN7wHv3cY8xy8/giphy.gif" width="500" alt="GIF of matrix code or fast typing">
 </p>
