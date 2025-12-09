@@ -2,10 +2,10 @@
 <h3 align="center">AI Engineer ⚡ Data Science ⚡ Robotics ⚡ Deep Learning Enthusiast</h3>
 
 
-## 🤷 Who tf am I?
+## Who tf am I?
 Yo, I’m **Ashish**, an AI + Data Science undergrad, passionate about building intelligent systems that make a difference.  
 
-### 🤯 The Current Vibe: What I'm Cooking Up
+### The Current Vibe: What I'm Cooking Up
 - **Generative Models:** Currently obsessed with **Diffusion Models** and **GANs** (because normal ML is too chill).
 - **Autonomous AI:** Developing **Agentic LLMs** that don't need babysitting—truly autonomous code.
 - **LLM Utility:** Deep diving into the stack: **LangChain**, **RAG** architecture, and streamlining **LLM Ops**.
@@ -25,7 +25,7 @@ My tools for chaos and creation.
 
 ---
 
-## 📊 My Grind Receipts: GitHub Stats
+## My Grind Receipts: GitHub Stats
 Proof that I actually commit code (and not just crimes against my sleep schedule).
 
 <p align="center">
