@@ -11,10 +11,6 @@ Yo, I’m **Ashish**, an AI + Data Science undergrad, passionate about building 
 - **LLM Utility:** Deep diving into the stack: **LangChain**, **RAG** architecture, and streamlining **LLM Ops**.
 - **The Grind:** Breaking **PyTorch** builds at 2 AM just to fix them again. It’s a lifestyle.
 - **My Loop:** **Gym + code + vibe = repeat** 🏋️‍♂️💻.
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExOTE1cWE2MWV5YnRsbDltOWtvNGM5dzNhZmZvOWIyaDd4aTd6am1wZyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/xoicctrOv5aGw6mCZi/giphy.gif" width="400" alt="i know coding too ">
-</p>
-
 ---
 
 ## 🛠️ The Arsenal: My Tech Stack
